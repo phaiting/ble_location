@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">BleTracker</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="hint_device_id">F8:04:2E:C4:B5:26</string>
+    <string name="hint_device_name">iTAG</string>
+    <string name="hint_rssi">-91</string>
+    <string name="ble_not_supported">BLE is not supported</string>
+    <string name="ble_unknown_device">Unknown Device</string>
+    <string name="label_device_id">Device address:</string>
+    <string name="label_device_state">State:</string>
+    <string name="label_device_name">Device name:</string>
+    <string name="hint_device_state">Disconnected</string>
+    <string name="hint_connect">Connect</string>
+    <string name="label_connect">Connect</string>
+    <string name="hint_disconnect">Disconnect</string>
+    <string name="label_disconnect">Disconnect</string>
+    <string name="status_connected">Connected</string>
+    <string name="status_disconnected">Disconnected</string>
+</resources>
